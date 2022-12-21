@@ -1,6 +1,6 @@
 # carrito
 
-<br/>** es una lista de compras de card de productos teniamos que hacer los botones de incremento y decremeto que sumaran la cantidad fuera del iva y el subtotal por producto y el total que lo sumaba todo**</br>
+<br>** es una lista de compras de card de productos teniamos que hacer los botones de incremento y decremeto que sumaran la cantidad fuera del iva y el subtotal por producto y el total que lo sumaba todo**</br>
 <br/>*** En este ejercicio aprendimos***</br>
 <br/>** dezplazar o redireccionar cards a otra pagina**</br>
 <br/>** Hacer los botones de incremento y decremento**</br>
